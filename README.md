@@ -1,8 +1,11 @@
 # Machine-Learning-Projects
 A number of ML projects utilizing various ML libraries
 
-The classification of iris flowers project.
+Project 1 -The classification of iris flowers project.
 Link to the dataset- https://archive.ics.uci.edu/ml/datasets/Iris
+
+Project 2 - Automatically classifying online reviews sentiments as positive or negative.
+Dataset saved as a json file.
 
 Steps breakdown:
 1 Installing the Python and SciPy platform.
