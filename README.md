@@ -10,6 +10,7 @@ Dataset saved as a json file.
 Project 3 - Basic time series forecasting.Persistence model developed from scratch for the Shampoo Sales problem.
 Naive forecast.
 
+Project 4 - Building a basic Decision tree model on the melbourne housing data to predict new house prices. Calculating the MAE, reducing it by splitting the data into train test split,comabting overfitting and underfitting specifying max leaf nodes and the building a ranodm forest model on the same data to reduce the MAE evon more.
 
 
 Steps breakdown:
